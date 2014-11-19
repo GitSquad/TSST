@@ -1,5 +1,0 @@
-c:\users\osin\documents\visual studio 2013\Projects\testowy_projekt\testowy_projekt\bin\Debug\testowy_projekt.exe
-c:\users\osin\documents\visual studio 2013\Projects\testowy_projekt\testowy_projekt\bin\Debug\testowy_projekt.pdb
-c:\users\osin\documents\visual studio 2013\Projects\testowy_projekt\testowy_projekt\obj\Debug\testowy_projekt.csprojResolveAssemblyReference.cache
-c:\users\osin\documents\visual studio 2013\Projects\testowy_projekt\testowy_projekt\obj\Debug\testowy_projekt.exe
-c:\users\osin\documents\visual studio 2013\Projects\testowy_projekt\testowy_projekt\obj\Debug\testowy_projekt.pdb
