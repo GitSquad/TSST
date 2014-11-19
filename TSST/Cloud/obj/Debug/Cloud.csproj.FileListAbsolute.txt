@@ -2,3 +2,4 @@ D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\Cloud\bin\Debug\Cloud.exe
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\Cloud\bin\Debug\Cloud.pdb
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\Cloud\obj\Debug\Cloud.exe
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\Cloud\obj\Debug\Cloud.pdb
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\Cloud\obj\Debug\Cloud.csprojResolveAssemblyReference.cache
