@@ -1,6 +1,0 @@
-D:\OSIN\github\TSST\TSST_Console\Cloud\bin\Debug\Cloud.exe.config
-D:\OSIN\github\TSST\TSST_Console\Cloud\bin\Debug\Cloud.exe
-D:\OSIN\github\TSST\TSST_Console\Cloud\bin\Debug\Cloud.pdb
-D:\OSIN\github\TSST\TSST_Console\Cloud\obj\Debug\Cloud.csprojResolveAssemblyReference.cache
-D:\OSIN\github\TSST\TSST_Console\Cloud\obj\Debug\Cloud.exe
-D:\OSIN\github\TSST\TSST_Console\Cloud\obj\Debug\Cloud.pdb

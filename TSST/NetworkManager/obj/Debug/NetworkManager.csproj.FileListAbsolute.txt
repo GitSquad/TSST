@@ -1,0 +1,5 @@
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\NetworkManager\bin\Debug\NetworkManager.exe
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\NetworkManager\bin\Debug\NetworkManager.pdb
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\NetworkManager\obj\Debug\NetworkManager.csprojResolveAssemblyReference.cache
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\NetworkManager\obj\Debug\NetworkManager.exe
+D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\NetworkManager\obj\Debug\NetworkManager.pdb
