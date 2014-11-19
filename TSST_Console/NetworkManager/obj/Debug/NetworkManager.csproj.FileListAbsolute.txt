@@ -1,0 +1,11 @@
+c:\users\osin\documents\visual studio 2013\Projects\TSST_Console\NetworkManager\bin\Debug\NetworkManager.exe.config
+c:\users\osin\documents\visual studio 2013\Projects\TSST_Console\NetworkManager\bin\Debug\NetworkManager.exe
+c:\users\osin\documents\visual studio 2013\Projects\TSST_Console\NetworkManager\bin\Debug\NetworkManager.pdb
+c:\users\osin\documents\visual studio 2013\Projects\TSST_Console\NetworkManager\obj\Debug\NetworkManager.exe
+c:\users\osin\documents\visual studio 2013\Projects\TSST_Console\NetworkManager\obj\Debug\NetworkManager.pdb
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\bin\Debug\NetworkManager.exe.config
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\obj\Debug\NetworkManager.exe
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\obj\Debug\NetworkManager.pdb
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\bin\Debug\NetworkManager.exe
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\bin\Debug\NetworkManager.pdb
+D:\OSIN\github\TSST\TSST_Console\NetworkManager\obj\Debug\NetworkManager.csprojResolveAssemblyReference.cache

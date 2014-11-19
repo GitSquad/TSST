@@ -1,0 +1,5 @@
+D:\OSIN\github\TSST\TSST_Console\NetworkNode\bin\Debug\NetworkNode.exe.config
+D:\OSIN\github\TSST\TSST_Console\NetworkNode\bin\Debug\NetworkNode.exe
+D:\OSIN\github\TSST\TSST_Console\NetworkNode\bin\Debug\NetworkNode.pdb
+D:\OSIN\github\TSST\TSST_Console\NetworkNode\obj\Debug\NetworkNode.exe
+D:\OSIN\github\TSST\TSST_Console\NetworkNode\obj\Debug\NetworkNode.pdb
