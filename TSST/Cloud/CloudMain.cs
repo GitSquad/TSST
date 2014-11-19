@@ -25,15 +25,16 @@ namespace Cloud
             Console.WriteLine("Starting the server...");
             serverSocket.Bind(new IPEndPoint(IPAddress.Any, 1020));
             serverSocket.Listen(100);
-            //serverSocket.BeginAccept(new AsyncCallback(AcceptCallback), null);
+            serverSocket.BeginAccept(new AsyncCallback(AcceptCallback), null);
 
-            Socket accepted = serverSocket.Accept();
-            Console.WriteLine("Server is ON");
-            accepted.BeginReceive(Buffer, 0, Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), accepted);
+            //Socket accepted = serverSocket.Accept();
+           // Socket accepted_1 = serverSocket.Accept();
+           // Console.WriteLine("Server is ON");
+            //accepted.BeginReceive(Buffer, 0, Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), accepted);
+          //  accepted_1.BeginReceive(Buffer, 0, Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), accepted_1);
             
             
-            
-            //serverSocket.BeginReceive(Buffer, 0, Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), accepted);
+          //  serverSocket.BeginReceive(Buffer, 0, Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCallback), serverSocket);
             
            
    
