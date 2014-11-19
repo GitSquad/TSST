@@ -10,6 +10,8 @@ namespace Cloud
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Chmura odpalona");
+            Console.Read();
         }
     }
 }

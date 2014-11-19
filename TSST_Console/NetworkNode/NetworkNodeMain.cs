@@ -10,6 +10,8 @@ namespace NetworkNode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Wezeł sieciowy odpalony");
+            Console.Read();
         }
     }
 }
