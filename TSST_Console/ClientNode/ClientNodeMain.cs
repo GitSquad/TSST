@@ -24,8 +24,9 @@ namespace ClientNode
                 case 1:
                     {
                         Console.WriteLine("Podaj wiadomość do przesłania");
-                        Console.ReadLine();
-
+                        String message = Console.ReadLine();
+                        Console.WriteLine(message);
+                        
                         break;
                     }
                 case 2:
@@ -38,7 +39,7 @@ namespace ClientNode
                     }
 
             }
-
+            Console.Read();
         }
     }
 }
