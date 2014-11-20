@@ -69,7 +69,7 @@ namespace Cloud
 
             byte[] message = br.ReadBytes(1024);
             Console.WriteLine("Odebralem " + message);
-
+            send(message);
         }
 
         private void send(byte[] message)
