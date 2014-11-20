@@ -3,3 +3,5 @@ D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\ClientNode\bin\Debug\ClientNode.pdb
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\ClientNode\obj\Debug\ClientNode.csprojResolveAssemblyReference.cache
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\ClientNode\obj\Debug\ClientNode.exe
 D:\OSIN\VISUAL_STUDIO_Projects\Projects\TSST\ClientNode\obj\Debug\ClientNode.pdb
+C:\TSST\TSST\ClientNode\obj\Debug\ClientNode.exe
+C:\TSST\TSST\ClientNode\obj\Debug\ClientNode.pdb
