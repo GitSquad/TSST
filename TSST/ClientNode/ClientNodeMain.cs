@@ -35,8 +35,7 @@ namespace ClientNode
                             Console.WriteLine("Podaj wiadomość do przesłania");
                             String message = Console.ReadLine();
                             Console.WriteLine(message);
-                            byte[] data = Encoding.ASCII.GetBytes(message);
-                            clientSocket.Send(data);
+                            
                             Console.WriteLine("Wyslano: " + message);
 
 
@@ -63,7 +62,8 @@ namespace ClientNode
         {
             try
             {
-                clientSocket.Connect(IPAddress.Loopback, 1020);
+               // TcpClient client = new TcpClient();
+               // client.Connect(IPAddress.Loopback, 25000);
             }
             catch
             {
