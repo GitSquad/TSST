@@ -62,8 +62,8 @@ namespace ClientNode
         {
             try
             {
-               // TcpClient client = new TcpClient();
-               // client.Connect(IPAddress.Loopback, 25000);
+                TcpClient client = new TcpClient();
+                client.Connect(IPAddress.Loopback, 25000);
             }
             catch
             {

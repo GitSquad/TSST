@@ -13,8 +13,8 @@ namespace NetworkNode
         static void Main(string[] args)
         {
             Console.WriteLine("Wezeł sieciowy odpalony");
-            //TcpClient client = new TcpClient();
-           // client.Connect(IPAddress.Loopback, 25000);
+            TcpClient client = new TcpClient();
+            client.Connect(IPAddress.Loopback, 25000);
             Console.Read();
 
         }

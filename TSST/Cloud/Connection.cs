@@ -53,32 +53,30 @@ namespace Cloud
                 clients.Add(tcpClient);
                 Thread thread = new Thread(delegate()
                 {
-                    addClient(tcpClient);
+                    handleClient(tcpClient);
                 });
                 thread.Start();
             }
         }
 
-        private void addClient(TcpClient tcpClient)
+        private void handleClient(TcpClient tcpClient)
         {
             
             stream = tcpClient.GetStream();
-           
-            bw = new BinaryWriter(stream);
-            br = new BinaryReader(stream);
+            byte[] buffer = new byte[tcpClient.ReceiveBufferSize];
+            stream.Read(buffer, 0, (int)tcpClient.ReceiveBufferSize);
 
-            byte[] message = br.ReadBytes(1024);
+            // Returns the data received from the host to the console.
+            string message = Encoding.UTF8.GetString(buffer);
             Console.WriteLine("Odebralem " + message);
-            send(message);
+
+            //send(message);
         }
 
         private void send(byte[] message)
         {
             
-            MemoryStream ms = new MemoryStream(message);
-            bw.Write(ms.Length);
-            ms.WriteTo(stream);
-            ms.Close();
+           
         }
 
     }
